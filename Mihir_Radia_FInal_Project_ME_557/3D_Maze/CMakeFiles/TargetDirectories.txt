@@ -1,0 +1,3 @@
+C:/Users/Mihir/Documents/GitHub/HCI-557-CG/20_Model_Loader/CMakeFiles/HCI557_ObjLoader.dir
+C:/Users/Mihir/Documents/GitHub/HCI-557-CG/20_Model_Loader/CMakeFiles/ALL_BUILD.dir
+C:/Users/Mihir/Documents/GitHub/HCI-557-CG/20_Model_Loader/CMakeFiles/ZERO_CHECK.dir
